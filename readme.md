@@ -9,6 +9,7 @@ LICENSE: [MIT](./licence.md)
 2. [git add](./add.md)
 3. [git status](./status.md)
 4. [git diff](./diff.md)
+5. [git commit](./commit.md)
 
 ---
 GIT logo by Jason Long - http://git-scm.com/downloads/logos,
